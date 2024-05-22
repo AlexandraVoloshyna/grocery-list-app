@@ -10,7 +10,6 @@ This is a React Native application for managing a grocery list.
 ## Features
 
 - View grocery list
-- Add, edit, and delete items in the grocery list
 - Add amounts to each item in the list
 - Mark items as bought
 - Filter items by category (e.g., Fruits, Vegetables)
