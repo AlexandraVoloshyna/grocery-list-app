@@ -1,0 +1,41 @@
+{
+    "groceries": [
+      {
+        "id": 1,
+        "name": "Apple",
+        "customName": "Apple",
+        "category": "Fruits",
+        "price": 5,
+        "bought": false,
+        "amount": 0
+        
+      },
+      {
+        "id": 2,
+        "name": "Carrot",
+        "customName": "Carrot",
+        "category": "Vegetables",
+        "price": 3,
+        "bought": false,
+        "amount": 0
+      },
+      { 
+        "id": 3, 
+        "name": "Orange",
+        "customName": "Orange",
+        "price": 4, 
+        "category": "Fruits", 
+        "bought": false,
+        "amount": 0 
+      },
+      { 
+      "id": 4,
+      "name": "Tomato",
+      "customName": "Tomato",
+      "price": 6,
+      "category": "Vegetables",
+      "bought": false,
+      "amount": 0 
+      }
+    ]
+  }
